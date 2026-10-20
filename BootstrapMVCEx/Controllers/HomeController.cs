@@ -8,5 +8,21 @@ namespace BootstrapMVCEx.Controllers
         {
             return View();
         }
+
+        public IActionResult GridSystem()
+        {
+            return View();
+        }
+
+
+        public IActionResult Typo()
+        {
+            return View();
+        }
+
+        public IActionResult AlertsandButtons()
+        {
+            return View();
+        }
     }
 }
