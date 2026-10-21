@@ -24,5 +24,33 @@ namespace BootstrapMVCEx.Controllers
         {
             return View();
         }
+
+        public IActionResult ProgressBar()
+        {
+            return View();
+        }
+
+        public IActionResult Table()
+        {
+            return View();
+        }
+        public IActionResult ImagesandLists()
+        {
+            return View();
+        }
+
+        public IActionResult Cards()
+        {
+            return View();
+        }
+        public IActionResult SpacingandPadding()
+        {
+            return View();
+        }
+
+        public IActionResult Forms()
+        {
+            return View();
+        }
     }
 }
