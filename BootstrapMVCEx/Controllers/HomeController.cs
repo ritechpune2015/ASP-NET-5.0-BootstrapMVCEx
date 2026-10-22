@@ -52,5 +52,10 @@ namespace BootstrapMVCEx.Controllers
         {
             return View();
         }
+
+        public IActionResult Nav()
+        {
+            return View();
+        }
     }
 }
